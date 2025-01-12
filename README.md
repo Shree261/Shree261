@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Shree261
-- 👀 I’m interested in Computer Programming
+# 👋 Hi, I’m Shreyas
+- 👀 I’m interested in Computer Programming, Data Analysis, Database Designing, Big Data.
 - 🌱 I’m currently learning Programming languages and I am a student of Computer Science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me *shreyaswarankar09@gmail.com*
 
-<!---
-Shree261/Shree261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me
+A passionate graduate with a strong foundation in programming, data analysis, and problem-solving. During my academic journey, I excelled in projects involving Python, Data Analysis, Anaconda, NLP, WebScraping, Machine Learning, etc.
+
+Proficient in Python, SQL, Power BI, Advanced Excel and driven by a commitment to delivering impactful solutions, I thrive in dynamic, team-oriented environments.
+
+# Skills
+* Python
+* Machine Learning, NLP
+* Advanced Excel
+* Power BI
+* SQL
+* Web Scraping (Selenium)
+* Jupyter Notebooks
+
+Have a look in my Personal Projects Repository!!🙌
